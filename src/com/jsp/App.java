@@ -6,9 +6,5 @@ public class App {
 	//Fater-one
 	//Father-two
 	//son-one 
-<<<<<<< HEAD
-	//son-two
-=======
 	//grandson-one
->>>>>>> grandson
 }
